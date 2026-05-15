@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=NLP%20Sentiment%20Analysis&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IMDB%20Movie%20Reviews%20Classification&descAlignY=55&descAlign=50)
+
 #  Movie Review Sentiment Analysis using NLP
 
 An end-to-end Natural Language Processing (NLP) project that classifies IMDB movie reviews into **positive** or **negative sentiment** using machine learning techniques.
